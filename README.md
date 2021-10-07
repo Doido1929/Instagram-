@@ -122,7 +122,7 @@ python instagram.py -u <svfdurans> -p <doido123>
 [-] Wordlist: passlist.txt
 [-] Username: svfdurans
 [-] Password: doido123
-[-] Complete: 45.51%
+[-] Complete: 100.00%
 [-] Attempts: 228
 [-] Browsers: 273
 [-] Exists: True
@@ -134,7 +134,7 @@ python instagram.py -u <svfdurans> -p <doido123>
 [-] Wordlist: passlist.txt
 [-] Username: svfdurans
 [-] Password: doido123
-[-] Complete: 62.67%
+[-] Complete: 100.00%
 [-] Attempts: 314
 [-] Browsers: 185
 [-] Exists: True
