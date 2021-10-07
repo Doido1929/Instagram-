@@ -120,7 +120,7 @@ python instagram.py -u <username> -p <passlist>
 
 ```
 [-] Wordlist: passlist.txt
-[-] Username: Ranyacrc_
+[-] Username: Sami09.1
 [-] Password: 272
 [-] Complete: 45.51%
 [-] Attempts: 228
@@ -132,7 +132,7 @@ python instagram.py -u <username> -p <passlist>
 
 ```
 [-] Wordlist: passlist.txt
-[-] Username: Ranyacrc_
+[-] Username: Sami09.1
 [-] Password: Sami123
 [-] Complete: 62.67%
 [-] Attempts: 314
@@ -140,6 +140,9 @@ python instagram.py -u <username> -p <passlist>
 [-] Exists: True
 
 [!] Password Found
-[+] Username: Ranyacrc_
+[+] Username: Sami09.1
 [+] Password: Sami123
 ```
+-usar 
+
+Python install.pv
