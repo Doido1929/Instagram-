@@ -143,6 +143,4 @@ python instagram.py -u <username> -p <passlist>
 [+] Username: Sami09.1
 [+] Password: Sami123
 ```
--usar 
-
 Python install.pv
